@@ -18,7 +18,7 @@ The Warning pop-up you may see when enabling tOndO keyboard for the first time i
 If you email the developer for support or other feedback, the emails with email addresses will be retained for quality assurance purposes. 
 The email addresses will be used only to reply and will never be used for any other purpose.
 
-###Inquiries
+### Inquiries
 For privacy related inquiries, you can contact us at [tOndO.keyboard@gmail.com](mailto:tOndO.keyboard@gmail.com).
 
 ### Changes to This Policy
